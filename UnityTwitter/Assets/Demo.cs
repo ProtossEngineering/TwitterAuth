@@ -66,7 +66,7 @@ public class Demo : MonoBehaviour
                 "You need to register your game or application first.\n Click this button, register and fill CONSUMER_KEY and CONSUMER_SECRET of Demo game object.";
             if (GUI.Button(rect, text))
             {
-                Application.OpenURL("http://dev.twitter.com/apps/new");
+                Application.OpenURL("https://apps.twitter.com");
             }
         }
         else

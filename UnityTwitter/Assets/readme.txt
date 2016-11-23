@@ -25,7 +25,7 @@
 
  [How to run Demo]
  1. You need to register your app in Twitter to get cosumer key and secret.
-    Go to this page for registration: http://dev.twitter.com/apps/new
+    Go to this page for registration: https://apps.twitter.com
     
  2. After registration, you should be able to see your app's "Consumer key" and "Consumer secret"
  
